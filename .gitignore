@@ -1,0 +1,11 @@
+*.log*
+.idea/
+*/node_modules
+*/build
+*.pyc
+*debug.txt*
+*.genpkg
+*lib
+*dev_lib
+*debug_lib
+*package-lock.json

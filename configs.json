@@ -1,0 +1,8 @@
+{
+    "FlaskPort": 8181,
+    "AllowedUrls": [
+        "http://localhost:3000",
+        "http://localhost:8080"
+    ],
+    "TimeToCookiesExpireInMinutes": 10
+}
